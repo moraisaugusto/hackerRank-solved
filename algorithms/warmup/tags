@@ -1,0 +1,99 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+a	/home/augusto/Development/python/hackerRank/algorithms/warmup/05-diagonalDifference.py	/^a = []$/;"	v
+a	/home/augusto/Development/python/hackerRank/challenges/diagonalDifference.py	/^a = []$/;"	v
+aVeryBigSum	/home/augusto/Development/python/hackerRank/algorithms/warmup/04-aVeryBigSum.py	/^def aVeryBigSum(n, ar):$/;"	f	access:public
+a_t	/home/augusto/Development/python/hackerRank/algorithms/warmup/05-diagonalDifference.py	/^    a_t = [int(a_temp) for a_temp in input().strip().split(' ')]$/;"	v
+a_t	/home/augusto/Development/python/hackerRank/challenges/diagonalDifference.py	/^    a_t = [int(a_temp) for a_temp in input().strip().split(' ')]$/;"	v
+apple	/home/augusto/Development/python/hackerRank/challenges/appleAndOranges.py	/^apple = [int(apple_temp) for apple_temp in input().strip().split(' ')]$/;"	v
+ar	/home/augusto/Development/python/hackerRank/algorithms/warmup/04-aVeryBigSum.py	/^ar = list(map(int, input().strip().split(' ')))$/;"	v
+ar	/home/augusto/Development/python/hackerRank/algorithms/warmup/09-birthdayCakeCandles.py	/^ar = list(map(int, input().strip().split(' ')))$/;"	v
+ar	/home/augusto/Development/python/hackerRank/challenges/birthdayCakeCandles.py	/^ar = list(map(int, input().strip().split(' ')))$/;"	v
+arr	/home/augusto/Development/python/hackerRank/algorithms/warmup/02-simpleArraySum.py	/^arr = [int(arr_temp) for arr_temp in input().strip().split(' ')]$/;"	v
+arr	/home/augusto/Development/python/hackerRank/algorithms/warmup/06-plusMinus.py	/^arr = [int(arr_temp) for arr_temp in input().strip().split(' ')]$/;"	v
+birthdayCakeCandles	/home/augusto/Development/python/hackerRank/algorithms/warmup/09-birthdayCakeCandles.py	/^def birthdayCakeCandles(n, ar):$/;"	f	access:public
+birthdayCakeCandles	/home/augusto/Development/python/hackerRank/challenges/birthdayCakeCandles.py	/^def birthdayCakeCandles(n, ar):$/;"	f	access:public
+countApples	/home/augusto/Development/python/hackerRank/challenges/appleAndOranges.py	/^            countApples = countApples + 1$/;"	v
+countApples	/home/augusto/Development/python/hackerRank/challenges/appleAndOranges.py	/^        countApples = countApples + 1$/;"	v
+countApples	/home/augusto/Development/python/hackerRank/challenges/appleAndOranges.py	/^countApples = 0$/;"	v
+countOranges	/home/augusto/Development/python/hackerRank/challenges/appleAndOranges.py	/^            countOranges = countOranges + 1$/;"	v
+countOranges	/home/augusto/Development/python/hackerRank/challenges/appleAndOranges.py	/^        countOranges = countOranges + 1$/;"	v
+countOranges	/home/augusto/Development/python/hackerRank/challenges/appleAndOranges.py	/^countOranges = 0$/;"	v
+grades	/home/augusto/Development/python/hackerRank/challenges/gradingStudents.py	/^grades = []$/;"	v
+grades_i	/home/augusto/Development/python/hackerRank/challenges/gradingStudents.py	/^grades_i = 0$/;"	v
+grades_t	/home/augusto/Development/python/hackerRank/challenges/gradingStudents.py	/^   grades_t = int(input().strip())$/;"	v
+kangaroo	/home/augusto/Development/python/hackerRank/challenges/kangaroo.py	/^def kangaroo(x1, v1, x2, v2):$/;"	f	access:public
+max	/home/augusto/Development/python/hackerRank/algorithms/warmup/08-miniMaxSum.py	/^        max = i$/;"	v
+max	/home/augusto/Development/python/hackerRank/algorithms/warmup/08-miniMaxSum.py	/^max = values[0] $/;"	v
+min	/home/augusto/Development/python/hackerRank/algorithms/warmup/08-miniMaxSum.py	/^        min = i$/;"	v
+min	/home/augusto/Development/python/hackerRank/algorithms/warmup/08-miniMaxSum.py	/^min = values[0]$/;"	v
+n	/home/augusto/Development/python/hackerRank/algorithms/warmup/02-simpleArraySum.py	/^n = int(input().strip())$/;"	v
+n	/home/augusto/Development/python/hackerRank/algorithms/warmup/04-aVeryBigSum.py	/^n = int(input().strip())$/;"	v
+n	/home/augusto/Development/python/hackerRank/algorithms/warmup/05-diagonalDifference.py	/^n = int(input().strip())$/;"	v
+n	/home/augusto/Development/python/hackerRank/algorithms/warmup/06-plusMinus.py	/^n = int(input().strip())$/;"	v
+n	/home/augusto/Development/python/hackerRank/algorithms/warmup/07-stairCase.py	/^n = int(input().strip())$/;"	v
+n	/home/augusto/Development/python/hackerRank/algorithms/warmup/09-birthdayCakeCandles.py	/^n = int(input().strip())$/;"	v
+n	/home/augusto/Development/python/hackerRank/challenges/birthdayCakeCandles.py	/^n = int(input().strip())$/;"	v
+n	/home/augusto/Development/python/hackerRank/challenges/diagonalDifference.py	/^n = int(input().strip())$/;"	v
+n	/home/augusto/Development/python/hackerRank/challenges/gradingStudents.py	/^n = int(input().strip())$/;"	v
+n	/home/augusto/Development/python/hackerRank/challenges/staircase.py	/^n = int(input().strip())$/;"	v
+neg	/home/augusto/Development/python/hackerRank/algorithms/warmup/06-plusMinus.py	/^        neg = neg + 1$/;"	v
+neg	/home/augusto/Development/python/hackerRank/algorithms/warmup/06-plusMinus.py	/^neg = 0$/;"	v
+num1	/home/augusto/Development/python/hackerRank/algorithms/warmup/01-solveMeFirst.py	/^num1 = int(input())$/;"	v
+num1	/home/augusto/Development/python/hackerRank/algorithms/warmup/solveMeFirst.py	/^num1 = int(input())$/;"	v
+num2	/home/augusto/Development/python/hackerRank/algorithms/warmup/01-solveMeFirst.py	/^num2 = int(input())$/;"	v
+num2	/home/augusto/Development/python/hackerRank/algorithms/warmup/solveMeFirst.py	/^num2 = int(input())$/;"	v
+orange	/home/augusto/Development/python/hackerRank/challenges/appleAndOranges.py	/^orange = [int(orange_temp) for orange_temp in input().strip().split(' ')]$/;"	v
+p_sum	/home/augusto/Development/python/hackerRank/algorithms/warmup/05-diagonalDifference.py	/^    p_sum = p_sum + a[i][i]$/;"	v
+p_sum	/home/augusto/Development/python/hackerRank/algorithms/warmup/05-diagonalDifference.py	/^p_sum = 0$/;"	v
+p_sum	/home/augusto/Development/python/hackerRank/challenges/diagonalDifference.py	/^    p_sum = p_sum + a[i][i]$/;"	v
+p_sum	/home/augusto/Development/python/hackerRank/challenges/diagonalDifference.py	/^p_sum = 0$/;"	v
+pos	/home/augusto/Development/python/hackerRank/algorithms/warmup/06-plusMinus.py	/^        pos = pos + 1$/;"	v
+pos	/home/augusto/Development/python/hackerRank/algorithms/warmup/06-plusMinus.py	/^pos = 0$/;"	v
+res	/home/augusto/Development/python/hackerRank/algorithms/warmup/01-solveMeFirst.py	/^res = solveMeFirst(num1,num2)$/;"	v
+res	/home/augusto/Development/python/hackerRank/algorithms/warmup/solveMeFirst.py	/^res = solveMeFirst(num1,num2)$/;"	v
+result	/home/augusto/Development/python/hackerRank/algorithms/warmup/03-compareTheTriples.py	/^result = solve(a0, a1, a2, b0, b1, b2)$/;"	v
+result	/home/augusto/Development/python/hackerRank/algorithms/warmup/04-aVeryBigSum.py	/^result = aVeryBigSum(n, ar)$/;"	v
+result	/home/augusto/Development/python/hackerRank/algorithms/warmup/09-birthdayCakeCandles.py	/^result = birthdayCakeCandles(n, ar)$/;"	v
+result	/home/augusto/Development/python/hackerRank/algorithms/warmup/10-timeConvertion.py	/^result = timeConversion(s)$/;"	v
+result	/home/augusto/Development/python/hackerRank/challenges/birthdayCakeCandles.py	/^result = birthdayCakeCandles(n, ar)$/;"	v
+result	/home/augusto/Development/python/hackerRank/challenges/gradingStudents.py	/^result = solve(grades)$/;"	v
+result	/home/augusto/Development/python/hackerRank/challenges/kangaroo.py	/^result = kangaroo(x1, v1, x2, v2)$/;"	v
+result	/home/augusto/Development/python/hackerRank/challenges/timeConversion.py	/^result = timeConversion(s)$/;"	v
+s	/home/augusto/Development/python/hackerRank/algorithms/warmup/10-timeConvertion.py	/^s = input().strip()$/;"	v
+s	/home/augusto/Development/python/hackerRank/challenges/timeConversion.py	/^s = input().strip()$/;"	v
+s_sum	/home/augusto/Development/python/hackerRank/algorithms/warmup/05-diagonalDifference.py	/^    s_sum = s_sum + a[i][n-i-1]$/;"	v
+s_sum	/home/augusto/Development/python/hackerRank/algorithms/warmup/05-diagonalDifference.py	/^s_sum = 0$/;"	v
+s_sum	/home/augusto/Development/python/hackerRank/challenges/diagonalDifference.py	/^    s_sum = s_sum + a[i][n-i-1]$/;"	v
+s_sum	/home/augusto/Development/python/hackerRank/challenges/diagonalDifference.py	/^s_sum = 0$/;"	v
+solve	/home/augusto/Development/python/hackerRank/algorithms/warmup/03-compareTheTriples.py	/^def solve(a0, a1, a2, b0, b1, b2):$/;"	f	access:public
+solve	/home/augusto/Development/python/hackerRank/challenges/gradingStudents.py	/^def solve(grades):$/;"	f	access:public
+solveMeFirst	/home/augusto/Development/python/hackerRank/algorithms/warmup/01-solveMeFirst.py	/^def solveMeFirst(a,b):$/;"	f	access:public
+solveMeFirst	/home/augusto/Development/python/hackerRank/algorithms/warmup/solveMeFirst.py	/^def solveMeFirst(a,b):$/;"	f	access:public
+sum	/home/augusto/Development/python/hackerRank/algorithms/warmup/02-simpleArraySum.py	/^        sum = sum + i$/;"	v
+sum	/home/augusto/Development/python/hackerRank/algorithms/warmup/02-simpleArraySum.py	/^    sum = 0$/;"	v
+sys	/home/augusto/Development/python/hackerRank/algorithms/warmup/02-simpleArraySum.py	/^import sys$/;"	i
+sys	/home/augusto/Development/python/hackerRank/algorithms/warmup/03-compareTheTriples.py	/^import sys$/;"	i
+sys	/home/augusto/Development/python/hackerRank/algorithms/warmup/04-aVeryBigSum.py	/^import sys$/;"	i
+sys	/home/augusto/Development/python/hackerRank/algorithms/warmup/05-diagonalDifference.py	/^import sys$/;"	i
+sys	/home/augusto/Development/python/hackerRank/algorithms/warmup/06-plusMinus.py	/^import sys$/;"	i
+sys	/home/augusto/Development/python/hackerRank/algorithms/warmup/07-stairCase.py	/^import sys$/;"	i
+sys	/home/augusto/Development/python/hackerRank/algorithms/warmup/08-miniMaxSum.py	/^import sys$/;"	i
+sys	/home/augusto/Development/python/hackerRank/algorithms/warmup/09-birthdayCakeCandles.py	/^import sys$/;"	i
+sys	/home/augusto/Development/python/hackerRank/algorithms/warmup/10-timeConvertion.py	/^import sys$/;"	i
+sys	/home/augusto/Development/python/hackerRank/challenges/appleAndOranges.py	/^import sys$/;"	i
+sys	/home/augusto/Development/python/hackerRank/challenges/birthdayCakeCandles.py	/^import sys$/;"	i
+sys	/home/augusto/Development/python/hackerRank/challenges/diagonalDifference.py	/^import sys$/;"	i
+sys	/home/augusto/Development/python/hackerRank/challenges/gradingStudents.py	/^import sys$/;"	i
+sys	/home/augusto/Development/python/hackerRank/challenges/kangaroo.py	/^import sys$/;"	i
+sys	/home/augusto/Development/python/hackerRank/challenges/staircase.py	/^import sys$/;"	i
+sys	/home/augusto/Development/python/hackerRank/challenges/timeConversion.py	/^import sys$/;"	i
+timeConversion	/home/augusto/Development/python/hackerRank/algorithms/warmup/10-timeConvertion.py	/^def timeConversion(s):$/;"	f	access:public
+timeConversion	/home/augusto/Development/python/hackerRank/challenges/timeConversion.py	/^def timeConversion(s):$/;"	f	access:public
+values	/home/augusto/Development/python/hackerRank/algorithms/warmup/08-miniMaxSum.py	/^values = [a, b, c, d, e]$/;"	v
+zer	/home/augusto/Development/python/hackerRank/algorithms/warmup/06-plusMinus.py	/^        zer = zer + 1$/;"	v
+zer	/home/augusto/Development/python/hackerRank/algorithms/warmup/06-plusMinus.py	/^zer = 0$/;"	v
