@@ -33,4 +33,4 @@
 
 * **Game Theory** - 0%
 
-* **NP Complete - 0%
+* **NP Complete** - 0%
