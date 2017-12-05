@@ -1,4 +1,4 @@
-# Warmup
+# Warmup (100%)
 
 <!--
 <p align="center">
