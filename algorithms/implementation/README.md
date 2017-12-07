@@ -16,14 +16,13 @@
 
 * **Between Two Sets** - Score: 10 | Difficulty: Easy
 
+* **Cat and Mouse** - Score: 15 | Difficulty: Easy
+
+* **The Hurdle Race** - Score: 15 | Difficulty: Easy
+
+* **Divisible Sum Pair** - Score: 10 | Difficulty: Easy
+
 * **Breaking the Records** - Score: 10 | Difficulty: Easy
 
-* **Birthday Chocolate** - Score: 10 | Difficulty: Easy
+* **Sock Merchant** - Score: 10 | Difficulty: Easy
 
-* **Divisible Sum Pairs** - Score: 10 | Difficulty: Easy
-
-* **Migratory Birds** - Score: 10 | Difficulty: Easy
-
-* **Day of the Programmer** - Score: 15 | Difficulty: Easy
-
-* **Bon Appétit** - Score: 10 | Difficulty: Easy
