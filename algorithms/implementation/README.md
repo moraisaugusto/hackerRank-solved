@@ -26,3 +26,5 @@
 
 * **Sock Merchant** - Score: 10 | Difficulty: Easy
 
+* **The Birthday Chocolate** - Score: 10 | Difficulty: Easy
+
