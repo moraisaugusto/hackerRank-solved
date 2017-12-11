@@ -28,3 +28,5 @@
 
 * **The Birthday Chocolate** - Score: 10 | Difficulty: Easy
 
+* **Camel Case** - Score: 15 | Difficulty: Easy
+
