@@ -30,3 +30,6 @@
 
 * **Camel Case** - Score: 15 | Difficulty: Easy
 
+* **Mars Exploration** - Score: 15 | Difficulty: Easy
+
+
