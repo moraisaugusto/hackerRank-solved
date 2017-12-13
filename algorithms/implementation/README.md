@@ -32,4 +32,7 @@
 
 * **Mars Exploration** - Score: 15 | Difficulty: Easy
 
+* **Electronics Shop** - Score: 15 | Difficulty: Easy
+
+* **Equalize in a Array** - Score: 20 | Difficulty: Easy
 
