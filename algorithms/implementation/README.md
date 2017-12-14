@@ -38,3 +38,5 @@
 
 * **Viral Advertising** - Score: 15 | Difficulty: Easy
 
+* **Beautiful Days At The Movies** - Score: 15 | Difficulty: Easy
+
