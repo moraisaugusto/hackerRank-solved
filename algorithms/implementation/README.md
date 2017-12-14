@@ -36,3 +36,5 @@
 
 * **Equalize in a Array** - Score: 20 | Difficulty: Easy
 
+* **Viral Advertising** - Score: 15 | Difficulty: Easy
+
