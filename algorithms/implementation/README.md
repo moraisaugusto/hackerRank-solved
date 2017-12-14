@@ -40,3 +40,5 @@
 
 * **Beautiful Days At The Movies** - Score: 15 | Difficulty: Easy
 
+* **Bon Appetit** - Score: 15 | Difficulty: Easy
+
