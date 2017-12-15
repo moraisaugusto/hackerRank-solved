@@ -47,3 +47,5 @@
 * **Sherlock and Squares** - Score: 20 | Difficulty: Easy
 
 * **Repeated String** - Score: 20 | Difficulty: Easy
+
+* **Designer PDF Viewer** - Score: 20 | Difficulty: Easy
