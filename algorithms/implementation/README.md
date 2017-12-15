@@ -43,3 +43,5 @@
 * **Bon Appetit** - Score: 15 | Difficulty: Easy
 
 * **Find Digits** - Score: 25 | Difficulty: Easy
+
+* **Sherlock and Squares** - Score: 20 | Difficulty: Easy
