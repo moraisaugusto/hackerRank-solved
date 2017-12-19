@@ -49,3 +49,5 @@
 * **Repeated String** - Score: 20 | Difficulty: Easy
 
 * **Designer PDF Viewer** - Score: 20 | Difficulty: Easy
+
+* **Jumping on the Clouds ** - Score: 20 | Difficulty: Easy
